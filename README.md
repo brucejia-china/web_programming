@@ -1,2 +1,7 @@
-# web_programming
-Learn web programming step by step. （那谁说的）每次一小步，都是新高度。
+# web programming and beyond
+
+All kinds of code snippets or sandbox code. Starting from simple web programming while now
+it's not limited to web development.
+
+**WARNING: Personal repository. Code quality is not guaranteed.**
+
